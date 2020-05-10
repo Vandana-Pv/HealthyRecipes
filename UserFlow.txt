@@ -1,0 +1,38 @@
+User : Can I know the recipe of Chocolate Milkshake (Chocolate Milkshake please)
+
+Assistant : One glass of chocolate milkshake has 356 calories. 
+            Would you like to try the healthy chocolate milkshake
+            or go with the regular chocolate milkshake
+
+User (Y): Healthy Chocolate Milkshake
+
+Assistant : Great, Here is your recipe of the Healthy Chocolate MilkShake 
+
+    Ingredients :- 
+
+        ¾ cup (180g) plain nonfat Greek yogurt
+        ½ cup (120mL) unsweetened cashew or vanilla almond milk
+        2 tbsp (10g) unsweetened cocoa powder
+        ¼ tsp vanilla crème stevia OR 1 tbsp (13g) Truvia (or adjusted to taste)
+        1 cup (130g) ice cubes
+
+    Procedure :-
+
+    Add all of the ingredients to a blender in the order listed, and pulse until thick and creamy. Serve immediately.
+
+User (N): No 
+
+Assistant : Ok, here is your favourite Chocolate MilkShake
+            The ingredients are as follows 
+
+       Ingredients :-  
+
+        4 scoops	vanilla or chocolate ice cream (about 2 cups)
+        1/2 cup	milk cold
+        1/4 cup	HERSHEY'S Syrup
+
+       Procedure :- 
+
+        1. Place ice cream, milk and syrup in blender container.
+        2. Cover; blend until smooth. Garnish, if desired. Serve immediately. Two 10-oz. servings.
+

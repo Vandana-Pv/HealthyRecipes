@@ -1,0 +1,18 @@
+{
+  "name": "healthyrecipes",
+  "version": "1.0.0",
+  "description": "Suggest healthy recipes when the user asks for a recipe",
+  "main": "index.js",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "dialogflow": "^1.1.2",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
